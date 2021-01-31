@@ -1,0 +1,25 @@
+p{
+    text-align: left;
+}
+figure{
+    float: right;
+    clear: right;
+    font-style: italic;
+    border-image: auto;
+}
+
+body{
+    max-width: 70%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+h1, h2{
+    margin-top: 1.5em;
+}
+h1{
+    size: 32px;
+}
+td, table{
+border-collapse: collapse;
+border: 2px solid black;
+}
